@@ -1,4 +1,4 @@
-FROM zerotier/zerotier-containerized
+FROM spikhalskiy/zerotier-containerized
 
 LABEL maintainer="seedgou <seedgou@gmail.com>"
 
